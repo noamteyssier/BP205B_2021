@@ -1,0 +1,3 @@
+[submodule "src/DeMultiSeq"]
+	path = src/DeMultiSeq
+	url = https://github.com/noamteyssier/DeMultiSeq
